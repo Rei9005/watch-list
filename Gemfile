@@ -46,7 +46,7 @@ gem "bootstrap", "~> 5.2"
 gem "autoprefixer-rails"
 gem "font-awesome-sass", "~> 6.1"
 gem "simple_form", github: "heartcombo/simple_form"
-gem "cloudinary"
+gem 'cloudinary', '~> 1.16.0'
 
 # Use Sass to process CSS
 gem "sassc-rails"

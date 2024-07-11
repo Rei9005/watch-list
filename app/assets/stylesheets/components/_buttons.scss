@@ -2,8 +2,12 @@
   color: white;
   padding: 8px 24px;
   border-radius: 4px;
-  background: #1EDD88;
+  background:#5550e3;
   transition: background 0.3s ease;
+  &:hover {
+    color: black;
+    background: #6763e0;
+  }
 }
 
 .btn-cancel {
